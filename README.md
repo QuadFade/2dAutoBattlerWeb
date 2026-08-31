@@ -9,7 +9,7 @@ The game is published as a GitHub Pages site and can be played at:
 
 ## About
 
-2D Auto Battler is a turn-based strategy game featuring automated combat mechanics. Deploy your units and watch them engage in strategic battles. The game is built using the Godot game engine and runs directly in modern web browsers.
+The game is built using the Godot game engine and runs directly in modern web browsers.
 
 ## Project Structure
 
@@ -25,14 +25,6 @@ The game is published as a GitHub Pages site and can be played at:
 - Modern browser with WebAssembly support (Chrome, Firefox, Safari, Edge)
 - 4+ MB available memory
 - JavaScript enabled
-
-## Building
-
-If you want to rebuild the game from source, you'll need:
-- Godot 4.x
-- Export templates for HTML5/WebAssembly
-
-Simply export the Godot project as HTML5 and replace the assets in the `docs/` folder.
 
 ## License
 
